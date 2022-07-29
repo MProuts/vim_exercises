@@ -1,0 +1,1 @@
+Indent the whole file using a text object

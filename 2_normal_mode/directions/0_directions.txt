@@ -1,0 +1,2 @@
+Write two sentences about your day leaving insert mode between the sentences.
+Undo the second sentence and replace it with something else about your day.
