@@ -1,0 +1,1 @@
+Press A to enter insert mode. Delete entire line without leaving insert mode.

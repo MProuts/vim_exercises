@@ -1,0 +1,3 @@
+Yank the first word. Open a new line.
+
+Paste the yanked word without leaving insert mode.
