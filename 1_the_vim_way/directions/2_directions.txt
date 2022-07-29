@@ -1,0 +1,1 @@
+Add a semicolon to the end of each line using the . command to repeat.

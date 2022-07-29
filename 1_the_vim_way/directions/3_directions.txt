@@ -1,0 +1,1 @@
+Add whitespace padding around each '+' using a dot formula.
