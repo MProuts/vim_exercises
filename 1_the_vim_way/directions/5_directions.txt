@@ -1,0 +1,2 @@
+Use substitution to change 'dolor' to 'dollar' ON THE FIRST LINE ONLY.
+Repeat on subsequent lines using only one keystroke.
