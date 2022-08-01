@@ -1,0 +1,24 @@
+Open all the files in all subdirectories under mvc/. (Use alternate file to jump
+back here.)
+
+Make a change to the first file.
+
+List buffers.
+
+Note the significance of '%', '#', and '+' in the buffers list.
+
+List args.
+
+Set args to the files listed in .files .
+
+Split window into four quadrants.
+
+Move between open windows.
+
+Move the current window to it's own tab.
+
+Move back and forth between this tab and the next tab, ending on this tab.
+
+Close the active window.
+
+Close all but the active window.
