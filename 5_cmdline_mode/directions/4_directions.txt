@@ -1,0 +1,3 @@
+Open cmdline window from normal mode
+Open cmdline search window from normal mode
+Open cmdline window from cmdline mode

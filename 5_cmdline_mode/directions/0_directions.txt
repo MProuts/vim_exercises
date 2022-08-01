@@ -1,0 +1,8 @@
+Using cmdline mode...
+
+- Jump to line 3.
+- Print from here to 4 lines from here.
+- Print from here to the end.
+- Print lines 11-12.
+- Print all lines.
+- Delete line 12.

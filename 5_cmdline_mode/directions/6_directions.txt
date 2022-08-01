@@ -1,0 +1,3 @@
+Read the results of `ls` into the buffer.
+
+Send the contents of the buffer as input grep for 'txt'.

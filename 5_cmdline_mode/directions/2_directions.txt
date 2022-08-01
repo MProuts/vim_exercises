@@ -1,0 +1,1 @@
+Type 'col' in cmdline mode and bring up autocomplete options.
