@@ -1,0 +1,9 @@
+Get the current file's directory using tab completion with :e.
+
+Open a file explorer in the current working directory.
+
+Open a file explorer in the active buffer's directory.
+
+Open a buffer for a file in a two new directories. Save without leaving vim.
+
+Examine the current file status.
