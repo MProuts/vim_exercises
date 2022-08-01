@@ -1,0 +1,1 @@
+Remove extra whitespace, delineate columns with '|' and header row with '-'.

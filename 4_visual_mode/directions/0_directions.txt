@@ -1,0 +1,3 @@
+Visually select the first three words.
+
+Hop to the opposite end of the selection.
