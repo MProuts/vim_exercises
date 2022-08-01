@@ -1,0 +1,9 @@
+Mark the first line.
+Change the second line to be your name.
+Visually select the last two lines.
+
+Use automatic marks to jump to...
+- position before last jump in this file.
+- position of last change.
+- start of last visual selection.
+- end of last visual selection.

@@ -1,0 +1,4 @@
+Using the appropriate text objects to preserve correct spacing:
+
+- Change all of the holidays to 'my birthday'.
+- Delete all of the colors.
