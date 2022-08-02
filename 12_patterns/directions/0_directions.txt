@@ -1,0 +1,4 @@
+Search for 'foo' (smartcase)
+Search for 'FOO' (smartcase)
+Search for 'foo' with case sensitivity ON
+Search for 'FOO' with case sensitivity OFF

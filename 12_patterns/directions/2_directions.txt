@@ -1,0 +1,2 @@
+Match the text using a regular search pattern.
+Match the text using a verbatim search.

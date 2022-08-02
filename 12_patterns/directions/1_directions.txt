@@ -1,0 +1,1 @@
+Match all color values using a regular expression.
