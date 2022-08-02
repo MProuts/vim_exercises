@@ -1,0 +1,3 @@
+Record a macro to add a space around the next consecutive '+'.
+
+Replay with out counting precisely.

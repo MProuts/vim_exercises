@@ -1,0 +1,9 @@
+Paste the macro from the last step into the buffer.
+
+(^ Make sure it's pasted on it's own line.)
+
+Edit it to downcase instead of upcase.
+
+Yank it back into the same register.
+
+(^ Use a text object to avoid adding a trailing newline to the macro.)

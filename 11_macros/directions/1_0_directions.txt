@@ -1,0 +1,9 @@
+Record a macro a line to the format `N) Title Case`
+
+Run the macro in parallel.
+
+Undo.
+
+Delete the comment.
+
+Append 'j' to the macro and run it in parallel.
