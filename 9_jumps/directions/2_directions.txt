@@ -1,0 +1,3 @@
+Open ~/.vimrc from normal mode, add a global mark to it.
+
+Jump back here, then use global mark to get back to vimrc.

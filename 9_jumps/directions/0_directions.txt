@@ -1,0 +1,12 @@
+Insert your first name at the top of the file.
+
+Jump to:
+
+- next sentence
+- next paragraph
+- top of screen
+- middle of screen
+- bottom of screen
+- previous/next locations in jump list
+
+Jump/continue last insert, add last name.

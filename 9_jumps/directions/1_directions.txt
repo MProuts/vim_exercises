@@ -1,0 +1,1 @@
+Position cursor over file path and open file in new buffer.
