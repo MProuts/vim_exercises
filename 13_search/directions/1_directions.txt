@@ -1,0 +1,3 @@
+Search for lang, but position cursor at the end of matches.
+
+Expand to 'language' in all cases using a dot formula.

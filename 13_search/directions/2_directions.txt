@@ -1,0 +1,7 @@
+Write a search that matches xml or html.
+
+Upcase each occurance using a motion.
+
+Undo.
+
+Upcase each occurance using a text object (from plugin).
