@@ -1,0 +1,1 @@
+Paste another row, positioning cursor at the end of the new row.

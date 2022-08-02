@@ -1,0 +1,8 @@
+Paste the following into the buffer from registers:
+
+- the name of the current file
+- the name of the alternate file
+- the last inserted text
+- the last ex command
+- the last search pattern
+

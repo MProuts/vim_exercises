@@ -1,0 +1,3 @@
+Use pbcopy to copy a random number from bash.
+
+Paste into the buffer using clipboard register.

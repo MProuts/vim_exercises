@@ -1,0 +1,2 @@
+Yank 'collection' and replace 'somethingInTheWay' with it without dealing
+explicitly with registers.

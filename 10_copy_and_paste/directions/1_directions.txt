@@ -1,0 +1,7 @@
+Copy something text from an external application.
+
+Yank first place, delete second place. (Use appropriate text objects.)
+
+Replace third place with 'Jonny' without overwriting unnamed register.
+
+Paste second place to first and first to second.
