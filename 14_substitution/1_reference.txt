@@ -1,0 +1,7 @@
+<html>
+  <table>
+    <tr>
+      <td><lorem/></td>
+    </tr>
+  </table>
+</html>

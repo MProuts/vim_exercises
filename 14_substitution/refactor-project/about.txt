@@ -1,1 +1,2 @@
 Pragmatic Vim is a hands on guide to working with Vim.
+Pragmatic Programmer is a series of practical guides.

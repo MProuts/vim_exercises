@@ -1,0 +1,3 @@
+Write a regex that captures each column in a line.
+
+Reorder columsn as: email, first name, last name.

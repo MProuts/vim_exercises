@@ -1,0 +1,16 @@
+Replace <lorem/> with the following by copying into a register and passing by
+reference.
+
+<
+Ipsum omnis sunt architecto earum nesciunt maxime repellendus. Error sed eaque
+quasi sequi molestias Fuga consequatur est eos dolor eaque. Exercitationem omnis
+cumque alias similique atque exercitationem. Necessitatibus explicabo pariatur
+cupiditate itaque nisi. Reprehenderit reprehenderit natus eos molestiae
+dignissimos nam nesciunt voluptas quas quod ad doloribus Officia dolores
+obcaecati dolore ullam expedita? Velit nam exercitationem dolorum porro
+repellendus Dolor dicta dolores iste distinctio illo? Non ad culpa esse itaque
+quam explicabo. Rerum ex repellendus natus facilis beatae. Exercitationem totam
+voluptatibus explicabo iusto veniam. Alias obcaecati magnam nesciunt officiis
+delectus Doloribus minus quaerat non repellat rem Libero qui voluptas ipsa
+fugit.
+>

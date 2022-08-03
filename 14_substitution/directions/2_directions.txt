@@ -1,0 +1,3 @@
+Change 'dolor' to 'dollar' on the first line.
+
+In normal mode, repeat for the rest of the document.
