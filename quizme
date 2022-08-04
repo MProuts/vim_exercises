@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# CHAP="01"
+
+for chapter in $CHAP; do
+  for file in ./$chapter*/*; do
+    if [ -f "$file" ]; then
+      echo "$file"
+      n="$(basename "$file" | grep -E "[0-9]" -o)"
+      directions="$(dirname "$file")/directions/${n}_directions.txt"
+
+      if [ -f $directions ]; then
+        vim -OR "$file" "$directions"
+      else
+        echo "Directions file '${directions}' does not exist."
+        echo "Skipping exercise #${n}..."
+      fi
+    fi
+  done
+done
