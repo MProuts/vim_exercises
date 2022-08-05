@@ -11,6 +11,20 @@ for chapter in $CHAP; do
 
       if [ -f $directions ]; then
         vim -OR "$file" "$directions"
+        echo "Did you look up the answer?"
+        select yn in "no" "yes"; do
+          case $yn in
+            no)
+              echo "Great!"
+              break
+              ;;
+            yes)
+              mkdir "missed"
+              cp {"$file","$directions"} "missed/"
+              break
+              ;;
+          esac
+        done
       else
         echo "Directions file '${directions}' does not exist."
         echo "Skipping exercise #${n}..."
