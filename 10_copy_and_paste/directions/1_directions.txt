@@ -1,7 +1,9 @@
-Copy something text from an external application.
+Copy some text from an external application.
 
-Yank first place, delete second place. (Use appropriate text objects.)
+Paste it above list.
 
-Replace third place with 'Jonny' without overwriting unnamed register.
+Yank first place's name, delete second place. (Use appropriate text objects.)
+
+Replace third place with 'Terrence' without overwriting unnamed register.
 
 Paste second place to first and first to second.

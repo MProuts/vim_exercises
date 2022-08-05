@@ -3,7 +3,9 @@ Change the second line to be your name.
 Visually select the last two lines.
 
 Use automatic marks to jump to...
+- the mark you set.
 - position before last jump in this file.
-- position of last change.
+- start of last yank or change.
+- end of last yank or change.
 - start of last visual selection.
 - end of last visual selection.
