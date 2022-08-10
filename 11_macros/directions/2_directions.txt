@@ -1,3 +1,5 @@
+Make sure you're in 11_macros/.
+
 Set args to the WORD under the cursor (all from cmdline mode).
 
 Record a macro to wrap the class in a module called Eucarya.
@@ -7,3 +9,5 @@ Use argdo to play it back in parallel.
 Undo.
 
 Edit the macro and run it again in series.
+
+https://thoughtbot.com/blog/how-to-edit-an-existing-vim-macro

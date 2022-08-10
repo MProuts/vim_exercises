@@ -7,8 +7,8 @@ for chapter in $CHAP; do
     if [ -f "$file" ]; then
       echo "$file"
       n="$(basename "$file" | grep -E "[0-9]" -o)"
-      directions="$(dirname "$file")/directions/${n}_directions.txt"
 
+      directions="$(dirname "$file")/directions/${n}_directions.txt"
       if [ -f $directions ]; then
         vim -OR "$file" "$directions"
         echo "Did you look up the answer?"
@@ -19,8 +19,9 @@ for chapter in $CHAP; do
               break
               ;;
             yes)
-              mkdir "missed"
-              cp {"$file","$directions"} "missed/"
+              dir="missed/$(dirname "$file")/"
+              mkdir -p "$dir"
+              cp {"$file","$directions"} "$dir"
               break
               ;;
           esac

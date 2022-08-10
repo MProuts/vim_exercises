@@ -5,3 +5,5 @@ Match 'pragmatic' before 'vim'.
 Populate the quickfix list with everything in refactor-project/.
 
 Substitute matches of this pattern across all files in quickfix list.
+
+Open the quickfix window to confirm that your change was correct.

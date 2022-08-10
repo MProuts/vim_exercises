@@ -1,1 +1,3 @@
-Paste another row, positioning cursor at the end of the new row.
+Paste another row above the exiting row, positioning cursor at the end of the new row.
+
+Paste another row below the existing row, positioning cursor at the end of the new row.

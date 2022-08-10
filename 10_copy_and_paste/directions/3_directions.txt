@@ -1,3 +1,7 @@
+Insert your name at the top of the file.
+
+Open ~/.vimrc and jump back here.
+
 Paste the following into the buffer from registers:
 
 - the name of the current file

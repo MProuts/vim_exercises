@@ -1,7 +1,1 @@
 See directions.
-0_opposite.txt
-1_fibonacci-malformed.py
-2_list-of-links.html
-3_chapter-table.txt
-4_sprite.css
-directions

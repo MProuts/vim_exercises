@@ -1,4 +1,4 @@
 Jump to line 33. Open a new line and insert your name.
 
-Reposition current line to be at the center of the screen without leaving insert
+Reposition current line to be at the top of the screen without leaving insert
 mode.
